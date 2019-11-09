@@ -1,0 +1,5 @@
+com\smarthome\device\admin\dao\mapper\TestMapper.class
+com\smarthome\device\admin\web\controller\TestController.class
+com\smarthome\device\admin\web\DeviceAdminApplication.class
+com\smarthome\device\admin\dao\util\BaseMapper.class
+com\smarthome\device\admin\dao\entity\po\TestModel.class
